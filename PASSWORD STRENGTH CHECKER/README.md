@@ -1,13 +1,13 @@
-# 🔐 Password Strength Checker (GUI Version)
+🔐 Password Strength Checker (GUI Version)
 
 A simple and interactive **Password Strength Checker** built with Python and Tkinter.
 
-## 🚀 Features
+🚀 Features
 - Real-time password strength evaluation
 - Checks for length, uppercase, lowercase, digits, and special characters
 - Beautiful and minimal Tkinter interface
 
-## 🧠 How It Works
+🧠 How It Works
 Password is analyzed based on 5 factors:
 1. Length ≥ 8
 2. Contains uppercase letter
@@ -15,16 +15,15 @@ Password is analyzed based on 5 factors:
 4. Contains digit
 5. Contains special character
 
-## 📦 Requirements
+ 📦 Requirements
 Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-
-## ▶️ Run the App
+▶️ Run the App
 ```bash
 python password_strength_checker.py
 ```
 
-## 💻 Output
+💻 Output
 Displays password strength as **Weak**, **Medium**, or **Strong** with color indication.
