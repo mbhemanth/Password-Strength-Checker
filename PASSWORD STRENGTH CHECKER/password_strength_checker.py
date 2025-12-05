@@ -1,3 +1,4 @@
+#Password strength checker 
 import re
 import tkinter as tk
 from tkinter import messagebox
