@@ -1,6 +1,6 @@
 🔐 Password Strength Checker (GUI Version)
 
-A simple and interactive **Password Strength Checker** built with Python and Tkinter.
+A simple and interactive *Password Strength Checker* built with Python and Tkinter.
 
 🚀 Features
 - Real-time password strength evaluation
