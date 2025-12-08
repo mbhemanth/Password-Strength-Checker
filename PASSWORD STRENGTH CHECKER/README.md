@@ -1,4 +1,4 @@
-🔐 Password Strength Checker (GUI Version)
+Password Strength Checker (GUI Version)
 
 A simple and interactive *Password Strength Checker* built with Python and Tkinter.
 
